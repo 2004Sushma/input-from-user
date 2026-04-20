@@ -1,5 +1,7 @@
 <Solution>
+  <Project Path="day 5/day 5.csproj" Id="b9d0a19f-889e-478d-afe6-ea03d624d814" />
   <Project Path="display/order management.csproj" Id="fbb62d00-f5ec-4986-a8c8-ba7b531116d1" />
   <Project Path="input from user/input from user.csproj" />
+  <Project Path="order management system/order management system.csproj" Id="d7090193-f34e-4f64-a456-b8cf5a66f158" />
   <Project Path="user input 2/user input 2.csproj" Id="6569354a-bc17-4a6e-8146-ff8a059d2b98" />
 </Solution>
