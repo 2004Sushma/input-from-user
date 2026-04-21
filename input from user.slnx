@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="delegate add/delegate add.csproj" Id="aff6e8f1-f9f3-40b2-bf5d-cc6647bb9b5d" />
   <Project Path="display/order management.csproj" Id="fbb62d00-f5ec-4986-a8c8-ba7b531116d1" />
   <Project Path="exception age/exception age.csproj" Id="9aadbd2d-82f9-4327-94ab-4370f3e9fed3" />
   <Project Path="exception negative/exception negative.csproj" Id="3eedc6b5-8c5c-4ab8-afe0-47091259cb39" />
