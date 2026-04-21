@@ -11,11 +11,11 @@ namespace stopwatch
 
         public StopWatch()
         {
-            InitializeComponent();
-            timer1.Interval = 1000; // 1 second
+            InitializeComponent(); //loads ui
+            timer1.Interval = 1000; 
         }
 
-        // TIMER LOGIC
+        
         private void timer1_Tick(object sender, EventArgs e)
         {
             seconds++;
@@ -48,13 +48,13 @@ namespace stopwatch
             timer1.Start();
         }
 
-        // STOP BUTTON
+        
         private void button2_Click(object sender, EventArgs e)
         {
             timer1.Stop();
         }
 
-        // RESUME BUTTON
+        
         private void button3_Click(object sender, EventArgs e)
         {
             timer1.Start();
