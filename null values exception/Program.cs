@@ -24,9 +24,5 @@ class Program
         {
             Console.WriteLine("Error: " + ex.Message);
         }
-        finally
-        {
-            Console.WriteLine("Execution completed.");
-        }
     }
 }
