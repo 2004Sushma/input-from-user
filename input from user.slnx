@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="Banking Exception Handling/Banking Exception Handling.csproj" Id="61e3eb0f-5228-4b36-9b55-ffb60a316da3" />
+  <Project Path="bank exception/bank exception.csproj" Id="bd8141cd-43a7-4ddf-aebe-7d59a0d53ed5" />
   <Project Path="delegate add/delegate add.csproj" Id="aff6e8f1-f9f3-40b2-bf5d-cc6647bb9b5d" />
   <Project Path="display/order management.csproj" Id="fbb62d00-f5ec-4986-a8c8-ba7b531116d1" />
   <Project Path="exception age/exception age.csproj" Id="9aadbd2d-82f9-4327-94ab-4370f3e9fed3" />
