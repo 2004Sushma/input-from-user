@@ -7,6 +7,8 @@
   <Project Path="input from user/input from user.csproj" />
   <Project Path="null values exception/null values exception.csproj" Id="fee1c1a3-7164-496a-a924-f3b5e11869d1" />
   <Project Path="order management system/order management system.csproj" Id="d7090193-f34e-4f64-a456-b8cf5a66f158" />
+  <Project Path="publisher subscriber model/publisher subscriber model.csproj" Id="7dd45c3d-1a67-4f17-a2fa-6fa35f91e310" />
+  <Project Path="searching/binary seraching.csproj" Id="0467e0ea-15be-4a97-9240-d25e1cb7555b" />
   <Project Path="Social Media Platform/Social Media Platform.csproj" Id="b448bc52-3154-4ae3-a02b-3c77d03eeb56" />
   <Project Path="stopwatch/stopwatch.csproj" Id="37e5813a-0803-47aa-8b6a-fbe2c4671271" />
   <Project Path="user input 2/user input 2.csproj" Id="6569354a-bc17-4a6e-8146-ff8a059d2b98" />
