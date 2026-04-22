@@ -5,7 +5,7 @@
   <Project Path="exception age/exception age.csproj" Id="9aadbd2d-82f9-4327-94ab-4370f3e9fed3" />
   <Project Path="exception negative/exception negative.csproj" Id="3eedc6b5-8c5c-4ab8-afe0-47091259cb39" />
   <Project Path="input from user/input from user.csproj" />
-  <Project Path="linear search/linear search.csproj" Id="e45d74ad-a455-4d77-8e02-86c1bbac597e" />
+  <Project Path="linear searching/linear searching.csproj" Id="7e823756-be41-473a-9cb9-34b094107d2f" />
   <Project Path="order management system/order management system.csproj" Id="d7090193-f34e-4f64-a456-b8cf5a66f158" />
   <Project Path="Social Media Platform/Social Media Platform.csproj" Id="b448bc52-3154-4ae3-a02b-3c77d03eeb56" />
   <Project Path="stopwatch/stopwatch.csproj" Id="37e5813a-0803-47aa-8b6a-fbe2c4671271" />
