@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-using System.Diagnostics;
+
 
 class Program
 {

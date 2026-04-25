@@ -47,6 +47,7 @@ class Program
 
         // US2 → Action + Lambda
         Action<Student> display = s =>
+
         {
             Console.WriteLine($"Name: {s.Name}, Total: {calculateTotal(s)}");
         };
