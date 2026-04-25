@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="async/async.csproj" Id="b1250844-d5ef-40a2-b9fc-a5b0b1a728e0" />
   <Project Path="bank exception/bank exception.csproj" Id="bd8141cd-43a7-4ddf-aebe-7d59a0d53ed5" />
   <Project Path="day 8/day 8.csproj" Id="f82eea70-7d0b-447a-a09a-9ba5573c232e" />
   <Project Path="delegate add/delegate add.csproj" Id="aff6e8f1-f9f3-40b2-bf5d-cc6647bb9b5d" />
