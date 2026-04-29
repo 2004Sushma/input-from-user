@@ -15,6 +15,7 @@
   <Project Path="SecureAppLib/SecureAppLib.csproj" Id="d2022dce-965c-410d-964b-4ebf989c7fad" />
   <Project Path="SecureAppTests/SecureAppTests.csproj" Id="97c63eac-5b99-4761-9bf5-6cf365a47a28" />
   <Project Path="Social Media Platform/Social Media Platform.csproj" Id="b448bc52-3154-4ae3-a02b-3c77d03eeb56" />
+  <Project Path="SOLID ASSI/SOLID ASSI.csproj" Id="2d7f209d-8ee8-4e49-be05-c71394db604f" />
   <Project Path="stopwatch/stopwatch.csproj" Id="37e5813a-0803-47aa-8b6a-fbe2c4671271" />
   <Project Path="user input 2/user input 2.csproj" Id="6569354a-bc17-4a6e-8146-ff8a059d2b98" />
 </Solution>
